@@ -1,3 +1,13 @@
+# Peter's Janky mix of comix codebase and pymarl because I need elements of both of these for my work.
+
+Disclaimer, I mostly just smashed code together and wrote the glue and take no credit for the work that was done by the oxwhirl team on both comix and pymarl. They are both good code bases that do the thing, I just need them to do my thing. 
+
+Feb 25, 2021
+
+Changes that will be made:
+- adding algorithms from pymarl
+- 
+
 # Deep Multi-Agent Reinforcement Learning for Decentralised Continuous Cooperative Control
 
 This repo contains the code that was used in the paper: 
