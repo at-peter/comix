@@ -5,8 +5,8 @@ Disclaimer, I mostly just smashed code together and wrote the glue and take no c
 Feb 25, 2021
 
 Changes that will be made:
-- adding algorithms from pymarl
-- 
+- adding value decomposion algorithms from pymarl
+- adding the smac environment to the partially observable multiagent particle environment (POMPE) 
 
 # Deep Multi-Agent Reinforcement Learning for Decentralised Continuous Cooperative Control
 
